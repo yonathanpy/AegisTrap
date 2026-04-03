@@ -23,7 +23,7 @@ AegisTrap uses a modular architecture:
 
 ```bash
 python main.py
-
+```
 Data Collected
 Source IP
 Username and password attempts
